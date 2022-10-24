@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @justinallen
-- 👀 I’m interested in digital humanities and data journalism 
-- 📖 Looking to collaborate on digital publications
-- ✊ Also up for helping build people-power with civic tech
-- 🌱 Currently learning more about Python, data and servers
+- 👀 I’m interested in digital humanities and data journalism. 
+- 📖 Looking to collaborate on digital publications.
+- ✊ Also up for helping build people-power with civic tech.
 - 📫 I can be reached at j@justinallen.us
 
 <!---
